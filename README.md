@@ -1,7 +1,7 @@
 # AlgoVision
 Streamlined user authentication-driven software enabling CSV file uploads for targeted value predictions, offering automatic algorithm selection based on high accuracy, rich visualization, and user-friendly tutorials for an enhanced learning experience.
 
-I have established a smooth file flow with authentication, utilizing basic principles of system design. In the future, I plan to incorporate CSV file deployment into this non-CSS software for deployment
+I have established a smooth file flow with authentication, utilizing basic principles of system design.I intend to add a CSS file in the future for deployment and a better user experience.
 
 1. **User Authentication:** Robust login system ensuring secure access to the platform for file uploads and predictions.
   ![image](https://github.com/HarshAgrawal1/AlgoVision/assets/100071948/b4706012-b847-4317-a866-d2abfa5f3f61)
